@@ -1,0 +1,35 @@
+
+.imagen_team{
+    margin: 10px;
+}
+.p_team{
+        border-color: Red;
+    border-width: 10px;
+    border-style: outset;
+    font-family: 'Kalam';
+    font-size: calc(10px + 2vmin); 
+    margin-top: 20%;
+    padding: 30px;
+    
+}
+
+.p_team2{
+    border-color: Red;
+border-width: 10px;
+border-style: outset;
+font-family: 'Kalam';
+font-size: calc(10px + 2vmin); 
+padding: 30px;
+
+}
+.imagen_logo{
+    margin: 5px;
+}
+.label{
+    font-weight: bold;
+    color: #000;
+    background-color: rgb(241, 237, 237);
+    border: 0.3px solid black;
+   
+    
+  }

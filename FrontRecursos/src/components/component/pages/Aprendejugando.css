@@ -1,0 +1,10 @@
+.body{
+    background-color: #DAF7A6 ;
+    
+  
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  justify-content: justify;
+}
